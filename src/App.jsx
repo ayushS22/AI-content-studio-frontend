@@ -9,7 +9,7 @@ import LoadingSpinner from "./component/LoadingSpinner";
 const Home = lazy(() => import("./page/Home"));
 const Image = lazy(() => import("./page/Image"));
 const Content = lazy(() => import("./page/Content"));
-const SignUp = lazy(() => import("./page/SignUp.JSX"));
+const SignUp = lazy(() => import("./page/SignUp.jsx"));
 const Login = lazy(() => import("./page/Login"));
 const GenerateImage = lazy(() => import("./page/GenerateImage"));
 const GenerateContent = lazy(() => import("./page/GenerateContent"));
