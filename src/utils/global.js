@@ -1,3 +1,4 @@
+//This file contains reusable helper functions that can be used across the entire application.
 import { toast } from "react-toastify";
 import { COLOR_MAP, DEFAULT_COLOR_TYPE } from "../constant";
 
